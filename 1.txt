@@ -1,1 +1,1 @@
-Springboot.poret=1000
+Springboot.poret=100
